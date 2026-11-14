@@ -172,4 +172,3 @@ Add a `LICENSE` file only after confirming distribution rights for all contribut
 
 ## License
 
-**No license is currently specified.** All rights remain with their respective copyright holders until a license is explicitly chosen and applied.
